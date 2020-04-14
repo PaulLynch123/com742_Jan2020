@@ -25,7 +25,7 @@ public class TestingCoursework {
             System.out.print(num1 + " , ");
         }//for
         System.out.println();
-    }//printIntArray
+    }//printIntArray  just entering text here for no reason
 
     public static void main (String [] args){
 //I WAS THINKING OF USING A COURSEWORK OBJECT TO DO ALL THIS TESTING... BUT DECIDED NOT TO
